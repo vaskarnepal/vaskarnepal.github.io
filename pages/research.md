@@ -1,5 +1,5 @@
 ---
 layout: Post
-permalink: /Research
+permalink: /research
 title: Research Activities
 ---

@@ -4,22 +4,22 @@ notetype : feed
 date : 01-02-2021
 ---
  
-## Instructor of record
+### Instructor of record
 In fall 2019, I taught an undergraduate seminar course on biological invasions in coastal ecosystems.
 
-## Teaching assistant
+### Teaching assistant
 Throughout my graduate program, I have served as official and unofficial teaching assistant for multiple courses. These include
 1. MSCI 669: Linear Models in Ecology
-...During fall 2016 and 2017, I TA'ed for this course. My main responsibility was to grade all the tests and exams, and to answer any questions from students regarding statistical models and SAS code.
+   During fall 2016 and 2017, I TA'ed for this course. My main responsibility was to grade all the tests and exams, and to answer any questions from students regarding statistical models and SAS code.
 2. BIO 4850: Fish and Wildlife Techniques
-...I was responsible for organizing student field trips on sampling fish communities in Lake Charleston, Lake Mattoon and Embarras River. I also led lab sections on using hard structures to determine fish age.
+   I was responsible for organizing student field trips on sampling fish communities in Lake Charleston, Lake Mattoon and Embarras River. I also led lab sections on using hard structures to determine fish age.
 3. BIO 3180: Introduction to Ecology and Evolution
-...I was responsible for leading lab and field exercises, grading some of the homeworks and holding office hours to assist students.
+   I was responsible for leading lab and field exercises, grading some of the homeworks and holding office hours to assist students.
 4. BIO 1001G: Biological Principles and Issues
-...I led a few lab exercises, and assisted the lead instructors with all lab exercises. I also graded all the lab exercises, and held office hours to assist students with course concepts and lab exercises.
+   I led a few lab exercises, and assisted the lead instructors with all lab exercises. I also graded all the lab exercises, and held office hours to assist students with course concepts and lab exercises.
  
 
-## Guest lectures
+### Guest lectures
 I occasionally provide guest lectures for other courses. These have included traditional teaching lectures, or guest presentations on my research.
 
 * TOC

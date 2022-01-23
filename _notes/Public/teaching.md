@@ -1,13 +1,21 @@
 ---
-title : Research
+title : Teaching
 notetype : feed
 date : 01-02-2021
 ---
  
-My research mainly focuses on three themes:
-1. Life-history
-2. Ecophysiology
-3. Habitat management
+## Instructor of record
+In fall 2019, I taught an undergraduate seminar course on biological invasions in coastal ecosystems.
+
+## Teaching assistant
+Throughout my graduate program, I have served as official and unofficial teaching assistant for multiple courses. These include
+
+blah
+blah,
+blah
+
+## Guest lectures
+I occasionally provide guest lectures for other courses. These have included traditional teaching lectures, or guest presentations on my research.
 
 * TOC
 {:toc}
